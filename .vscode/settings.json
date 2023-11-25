@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "formulahendry.code-runner",
+    "editor.formatOnPaste": false,
+    "[javascript]": { "editor.formatOnSave": true }
+}
